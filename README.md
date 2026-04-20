@@ -42,7 +42,7 @@ In this research, we ask whether exposing large language models to Legesher-styl
 
 Research replicating and extending simulation-based evaluation frameworks for Explainable AI (XAI). Implements the XAIsim2real pipeline (HCOMP/AAAI-22) to compare explanation properties — faithfulness, sparsity, and robustness — across synthetic human proxy models and target functions.
 
-Extends the Chen et al. (NeurIPS 2021) framework with forward simulation and data-bug detection experiments, benchmarking SHAP and LIME across multiple tabular datasets (UCI Adult, Credit Default, Diabetes, Bank Marketing). Introduces a novel **LLM-as-Cognitive-Proxy** experiment (Exp. 3b) that replaces statistical agents with an LLM required to verbalize causal reasoning — measuring not just prediction accuracy but reasoning quality, causal correctness, and uncertainty calibration against SHAP ground truth.
+Extends the Chen et al. (NeurIPS 2021) framework with forward simulation and data-bug detection experiments, benchmarking SHAP and LIME across multiple tabular datasets (UCI Adult, Credit Default, Diabetes, Bank Marketing). Introduces a novel **LLM-as-Cognitive-Proxy** experiment that replaces statistical agents with an LLM required to verbalize causal reasoning; measuring not just prediction accuracy but reasoning quality, causal correctness, and uncertainty calibration against SHAP ground truth.
 
 
 ## Volunteer Work
