@@ -20,15 +20,13 @@
 
 </div>
 
----
 
 ## About Me
 
 Rafay is a researcher, an AI enthusiast, software engineer, content creator, and advocate for AI EdTech.
 
----
 
-## 🔬 Current Projects
+## Current Projects
 
 ### \[Open Source\] Language, Decoded
 > *Exploring the Impact of Native-Language Code on Multilingual Models*
@@ -39,7 +37,6 @@ In this research, we ask whether exposing large language models to Legesher-styl
 
 *Produced as part of Cohere's Expedition Tiny Aya program (March 2026), in collaboration with Legesher and Grayhat.*
 
----
 
 ### \[Upcoming Publication\] Towards Adaptive and Human-Centric Explainability
 
@@ -47,16 +44,14 @@ Research replicating and extending simulation-based evaluation frameworks for Ex
 
 Extends the Chen et al. (NeurIPS 2021) framework with forward simulation and data-bug detection experiments, benchmarking SHAP and LIME across multiple tabular datasets (UCI Adult, Credit Default, Diabetes, Bank Marketing). Introduces a novel **LLM-as-Cognitive-Proxy** experiment (Exp. 3b) that replaces statistical agents with an LLM required to verbalize causal reasoning — measuring not just prediction accuracy but reasoning quality, causal correctness, and uncertainty calibration against SHAP ground truth.
 
----
 
-## 🤝 Volunteer Work
+## Volunteer Work
 
 - **Community Lead, EdTech** — [Cohere For AI](https://cohere.com/research), a non-profit open science organization with 3,000+ members from 100+ countries
 - **Research Mentor** — [TopMate](https://topmate.io), helping students navigate their higher education journey
 
----
 
-## 🧠 Areas of Interest
+## Areas of Interest
 
 **Language Models & Training**
 - LLM interpretability & explainability
