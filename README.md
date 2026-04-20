@@ -28,8 +28,7 @@ Rafay is a researcher, an AI enthusiast, software engineer, content creator, and
 
 ## Current Projects
 
-### \[Open Source\] Language, Decoded
-> *Exploring the Impact of Native-Language Code on Multilingual Models*
+### \[Open Source\] Language, Decoded: Exploring the Impact of Native-Language Code on Multilingual Models*
 
 [Legesher](https://github.com/Legesher) lets developers write code in their native language — replacing English Python keywords with translated equivalents in 52 languages. The premise: **programming shouldn't require knowing English.**
 
